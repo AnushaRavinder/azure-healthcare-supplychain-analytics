@@ -10,6 +10,7 @@ Hospitals often struggle with inventory visibility, operational efficiency, proc
 - Azure Blob Storage
 - Azure Data Factory
 - Azure SQL Database
+- Databricks
 - SQL
 - Power BI
 - GitHub
